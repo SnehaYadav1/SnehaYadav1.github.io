@@ -29,16 +29,16 @@
 		if (browser.mobile)
 			$body.addClass('is-touch');
 
-	/* Scrolly links.
+	//Scrolly links.
 		$('.scrolly').scrolly({
 			speed: 2000
-		});*/
+		});
 
-	/* Dropdowns.
+	//Dropdowns.
 		$('#nav > ul').dropotron({
 			alignment: 'right',
 			hideDelay: 250
-		});*/
+		});
 
 	// Nav.
 
